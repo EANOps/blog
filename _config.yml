@@ -89,3 +89,4 @@ exclude:
   - spec
   - tmp
   - s3_website.yml
+  - [vendor]
